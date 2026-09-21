@@ -47,5 +47,5 @@ Beyond computational genetics, I am passionate about science communication and c
 
 * **Email:** [jaisonjseq@gmail.com](mailto:jaisonjseq@gmail.com) / [jaison.sequeira@ebc.uu.se](mailto:jaison.sequeira@ebc.uu.se)
 * **ORCID:** [0000-0001-6859-9978](https://orcid.org/0000-0001-6859-9978)
-* **Google Scholar:** [Profile Link](https://scholar.google.com)
+* **Google Scholar:** [Profile Link](https://scholar.google.com/citations?user=0S5nd4EAAAAJ&hl=en)
 * **X (Twitter):** [@jaisonjseq](https://twitter.com/jaisonjseq)
