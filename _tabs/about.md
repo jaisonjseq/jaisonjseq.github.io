@@ -8,7 +8,7 @@ order: 0
 
 I am a population geneticist and computational biologist currently working as a Postdoctoral Fellow at Uppsala University, affiliated with the **Centre for the Human Past** and the **Swedish Collegium for Advanced Study (SCAS)** through the STINT and Human Past Fellowships. 
 
-My research investigates human evolutionary history, ancient demographic history, and genetic diversity in South Asian populations. I earned my Ph.D. in Zoology (Population Genetics) from Mangalore University under the supervision of **Prof. M. S. Mustak**.
+My research investigates human evolutionary history, ancient demographic history, and genetic diversity in South Asian populations. I earned my Ph.D. in Zoology (Population Genetics) from Mangalore University.
 
 ---
 
